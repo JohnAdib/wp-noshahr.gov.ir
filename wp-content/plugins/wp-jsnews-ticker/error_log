@@ -1,0 +1,5 @@
+[12-Jul-2014 13:23:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nshrgov/public_html/wp-content/plugins/wp-jsnews-ticker/wp-jsnews-ticker.php on line 30
+[13-Jul-2014 01:16:54 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nshrgov/public_html/wp-content/plugins/wp-jsnews-ticker/wp-jsnews-ticker.php on line 30
+[20-Nov-2014 06:58:03 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nshrgov/public_html/wp-content/plugins/wp-jsnews-ticker/wp-jsnews-ticker.php on line 30
+[05-Feb-2015 18:09:59 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nshrgov/public_html/wp-content/plugins/wp-jsnews-ticker/wp-jsnews-ticker.php on line 30
+[24-Jul-2015 22:48:23 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nshrgov/public_html/wp-content/plugins/wp-jsnews-ticker/wp-jsnews-ticker.php on line 30
